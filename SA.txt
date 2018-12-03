@@ -1,0 +1,1 @@
+We can see from the data, insert sort has the fastest running time but it has the highest standard deviation. Compare with others, merge sort has the closest running time of less than standard deviation. There is no doubt merge sort is the most efficient.
