@@ -1,0 +1,7 @@
+repeat,type of data,insert,selection,bubble,merge
+n=100,random,9.15,12.75,28.54,0.1887
+n=100,almost sorted m=2,0.0095,12.69,14.13,0.1125
+n=100,almost sorted m=5,0.0132,12.72,14.42,0.118
+n=100,almost sorted m=10,0.205,12.67,14.35,0.1175
+n=100,sorted in wrong order,14.88,13.11,21.67,0.1188
+,,6.123593514,0.163266653,5.72261968,0.028884529
